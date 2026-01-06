@@ -34,3 +34,6 @@ Next, I would like to expand this into a multi-layer perceptron (MLP) using Pyth
 
 ## Acknowledgments
 * Building AI Course by Reaktor and University of Helsinki.
+* ![Neuron Diagram](Screenshot 2026-01-06 112728.png)
+* ![Neuron Diagram](Screenshot 2026-01-06 112736.png)
+
